@@ -38,7 +38,7 @@
                 "range": "X",
                 "cost": 20,
                 "power": 30,
-				"aiValue": 10,
+//				"aiValue": 10,
                 //"targetModifier": {
                 //    "smart": true
                 //},
@@ -55,25 +55,25 @@
             "none": {
                 "cost": 20,
                 "power": 30,
-				"aiValue": 10
+//				"aiValue": 10
             },
             "basic": {
 				"description": "{Basic Summon Nymph}\r\n\r\nAllows you to summon Nymphs.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 15,
                 "power": 40,
-				"aiValue": 11
+//				"aiValue": 11
             },
             "advanced": {
 				"description": "{Advanced Summon Nymph}\r\n\r\nAllows you to summon Nymphs.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 12,
                 "power": 80,
-				"aiValue": 12
+//				"aiValue": 12
             },
             "expert": {
 				"description": "{Expert Summon Nymph}\r\n\r\nAllows you to summon Nymphs.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 9,
                 "power": 120,
-				"aiValue": 13
+//				"aiValue": 13
             }
         }
     }

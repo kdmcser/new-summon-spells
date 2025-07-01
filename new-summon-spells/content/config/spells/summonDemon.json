@@ -38,7 +38,7 @@
                 "range": "X",
                 "cost": 24,
                 "power": 2,
-				"aiValue": 10,
+//				"aiValue": 10,
                 //"targetModifier": {
                 //    "smart": true
                 //},
@@ -55,25 +55,25 @@
             "none": {
                 "cost": 25,
                 "power": 1,
-				"aiValue": 10
+//				"aiValue": 10
             },
             "basic": {
 				"description": "{Basic Summon Demon}\r\n\r\nAllows you to summon Demons.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 20,
                 "power": 2,
-				"aiValue": 11
+//				"aiValue": 11
             },
             "advanced": {
 				"description": "{Advanced Summon Demon}\r\n\r\nAllows you to summon Demons.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 20,
                 "power": 3,
-				"aiValue": 12
+//				"aiValue": 12
             },
             "expert": {
 				"description": "{Expert Summon Demon}\r\n\r\nAllows you to summon Demons.\r\n\r\nOnce cast, any other creature can be summoned.",
                 "cost": 20,
                 "power": 4,
-				"aiValue": 13
+//				"aiValue": 13
             }
         }
     }
