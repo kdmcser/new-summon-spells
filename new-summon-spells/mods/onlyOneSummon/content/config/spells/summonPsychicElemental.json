@@ -2,7 +2,7 @@
     "new-summon-spells:summonPsychicElemental": {
         "levels": {
             "base": {
-                "description": "{Summon Psychic Elemental}\r\n\r\nAllows you to summon Psychic Elementals.\r\n\r\nOnce cast, no other creatures can be summoned."
+                "description": "{Summon Psychic Elemental}\r\n\r\nAllows you to summon Psychic Elementals.\r\n\r\nOnce cast, no other creatures can be summoned.",
                 "battleEffects": {
                     "summon": {
                         "exclusive": true,
